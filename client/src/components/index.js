@@ -4,10 +4,8 @@ import ColorPicker from './ColorPicker.jsx';
 import FilePicker from './FilePicker.jsx';
 import Tab from './Tab.jsx';
 
-export {
-    CustomButton,
-    AiPicker,
-    ColorPicker,
-    FilePicker,
-    Tab,
-}
+export { default as CustomButton } from './CustomButton.jsx'
+export { default as AiPicker } from './AiPicker.jsx'
+export { default as ColorPicker } from './ColorPicker.jsx'
+export { default as FilePicker } from './FilePicker.jsx'
+export { default as Tab } from './Tab.jsx'

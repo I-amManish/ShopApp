@@ -1,9 +1,7 @@
 import React from 'react'
 
-const AIPicker = () => {
+export default function AiPicker() {
   return (
     <div>AIPicker</div>
   )
 }
-
-export default AIPicker
