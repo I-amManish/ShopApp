@@ -1,12 +1,3 @@
-
-Sure 👍
-Here’s a **clean, professional README.md** you can directly use for your repo
-👉 **[https://github.com/I-amManish/ShopApp](https://github.com/I-amManish/ShopApp)**
-
-You can copy-paste this as `README.md`.
-
----
-
 # 🛍️ ShopApp – 3D Product Customization Web App
 
 ShopApp is a full-stack web application that allows users to **customize a 3D T-shirt model in real time**. Users can change colors, apply logos, and preview the product interactively using modern 3D web technologies.
@@ -196,11 +187,3 @@ This project is licensed under the **MIT License**.
 GitHub: [@I-amManish](https://github.com/I-amManish)
 
 ---
-
-If you want, I can also:
-
-* Add **badges** (stars, license, tech stack)
-* Optimize README for **portfolio impact**
-* Write a **project description for LinkedIn / resume**
-
-Just tell me 👌
